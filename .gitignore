@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# HyperFrames working files
+video/**/.hyperframes
+video/**/renders
+video/**/node_modules
